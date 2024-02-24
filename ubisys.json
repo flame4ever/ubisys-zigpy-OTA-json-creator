@@ -1,0 +1,172 @@
+[
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B39-0000-0004-02400432-spo-fmi4.ota.zigbee/10F2-7B39-0000-0004-02400432-spo-fmi4.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31545,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:8862f2f4b207eab01f14fc2fcaec19eaee32a2445cca9940e8c8f6e7df6b796d",
+        "min_hardware_version": 0,
+        "max_hardware_version": 4
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B49-0100-0100-02400430-ubisys-c4-qpg6105.ota.zigbee/10F2-7B49-0100-0100-02400430-ubisys-c4-qpg6105.ota.zigbee",
+        "file_version": 37749808,
+        "image_type": 31561,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:248d9e0a05b2b4abf97b0765fcaf635772a75e655ff4a90a04ba72575eaabd32",
+        "min_hardware_version": 256,
+        "max_hardware_version": 256
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B31-0000-0006-02400432-spo-fmd.ota.zigbee/10F2-7B31-0000-0006-02400432-spo-fmd.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31537,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:91f712673442b0556157db4c3513cb3126a1f678e2c980f9b82d8d02f940b695",
+        "min_hardware_version": 0,
+        "max_hardware_version": 6
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B38-0000-0004-02400432-spo-rmd.ota.zigbee/10F2-7B38-0000-0004-02400432-spo-rmd.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31544,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:3139b4dfe32a9e128a368398c352f76d28cadd381e68355bfca245ab2003175d",
+        "min_hardware_version": 0,
+        "max_hardware_version": 4
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B2D-0000-0001-01520430-m7b-h1.ota.zigbee/10F2-7B2D-0000-0001-01520430-m7b-h1.ota.zigbee",
+        "file_version": 22152240,
+        "image_type": 31533,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:c89986e9194b3e0aeb21bb7befb92fd02e8b8027c6499fa42aecd44950bc3342",
+        "min_hardware_version": 0,
+        "max_hardware_version": 1
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B3B-0000-0001-02400432-m7b-h10.ota.zigbee/10F2-7B3B-0000-0001-02400432-m7b-h10.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31547,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:9cc3e1c1b40c9475688918c859f998b28ab24326994534cb3370a7c3bf2bd7fa",
+        "min_hardware_version": 0,
+        "max_hardware_version": 1
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B34-0000-0007-02400432-spo-fmsh.ota.zigbee/10F2-7B34-0000-0007-02400432-spo-fmsh.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31540,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:a874a71dfc5f4e525ba507dfb74b4acd206a4d1f4b6997a3cbdb64897a3824e2",
+        "min_hardware_version": 0,
+        "max_hardware_version": 7
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B37-0000-0004-02400432-spo-rmsh.ota.zigbee/10F2-7B37-0000-0004-02400432-spo-rmsh.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31543,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:b3e8a9a406f0c1d36f1fb88f8b82a3521d97eb21a441a2cbbcc4277edbf0ef36",
+        "min_hardware_version": 0,
+        "max_hardware_version": 4
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B2C-0000-0001-01400431-ld6.ota.zigbee/10F2-7B2C-0000-0001-01400431-ld6.ota.zigbee",
+        "file_version": 20972593,
+        "image_type": 31532,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:b442e36a960a36e960abe6def5a1490c342dd4e7268e074baf0bc14dac819f2f",
+        "min_hardware_version": 0,
+        "max_hardware_version": 1
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B3A-0000-0005-02400432-m7b-r0.ota.zigbee/10F2-7B3A-0000-0005-02400432-m7b-r0.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31546,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:e84bcc7e548489244cae1afdfb70769679b62d5a4398c3044486067b8890f760",
+        "min_hardware_version": 0,
+        "max_hardware_version": 5
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B4A-0100-0100-02400430-ubisys-r0-qpg6105.ota.zigbee/10F2-7B4A-0100-0100-02400430-ubisys-r0-qpg6105.ota.zigbee",
+        "file_version": 37749808,
+        "image_type": 31562,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:a3b37a9ec6bb672992c3599a9cde0d68a693533d9e877b880fd5a1d947402d42",
+        "min_hardware_version": 256,
+        "max_hardware_version": 256
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B32-0000-0001-02400432-spo-fms-rev0-1.ota.zigbee/10F2-7B32-0000-0001-02400432-spo-fms-rev0-1.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31538,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:fe75606b8bcf549e290a64997ca39b9ce0d3b654fe6c9ce1876798c545a3592c",
+        "min_hardware_version": 0,
+        "max_hardware_version": 1
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B32-0002-0007-02400432-spo-fms.ota.zigbee/10F2-7B32-0002-0007-02400432-spo-fms.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31538,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:5ea2bd6efe1030cb85d1d188c675e29682f5ced07083ec620d381cd0c60e61e2",
+        "min_hardware_version": 2,
+        "max_hardware_version": 7
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B35-0000-0004-02400432-spo-rms.ota.zigbee/10F2-7B35-0000-0004-02400432-spo-rms.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31541,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:c8e61ee30a790f0c5261b785c11535a785816a45b153fe96444925f66f66b599",
+        "min_hardware_version": 0,
+        "max_hardware_version": 4
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B45-0100-0100-02400430-ubisys-s1r-qpg6105.ota.zigbee/10F2-7B45-0100-0100-02400430-ubisys-s1r-qpg6105.ota.zigbee",
+        "file_version": 37749808,
+        "image_type": 31557,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:892116f8c79242b9b1b1536647eb685343c7e360f49e1906ff9a8acc99d24010",
+        "min_hardware_version": 256,
+        "max_hardware_version": 256
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B33-0000-0006-02400432-spo-fms2.ota.zigbee/10F2-7B33-0000-0006-02400432-spo-fms2.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31539,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:aba0836e560de9f240854f34ba4187661fe7e7c272b3a2cdc08c039a17f4179f",
+        "min_hardware_version": 0,
+        "max_hardware_version": 6
+    },
+    {
+        "binary_url": "https://www.ubisys.de/wp-content/uploads/10F2-7B36-0000-0004-02400432-spo-rms2.ota.zigbee/10F2-7B36-0000-0004-02400432-spo-rms2.ota.zigbee",
+        "file_version": 37749810,
+        "image_type": 31542,
+        "manufacturer_id": 4338,
+        "changelog": "",
+        "checksum": "sha3-256:5c978eca5ccdfa99e3ddbd95a2a53d07ea8ff02423560d5b8e03dcb6b6ee453f",
+        "min_hardware_version": 0,
+        "max_hardware_version": 4
+    }
+]
